@@ -1,0 +1,10 @@
+{
+  "/express-api": {
+    "target": "http://localhost:3333",
+    "secure": false
+  },
+  "/go-api": {
+    "target": "http://localhost:8080",
+    "secure": false
+  }
+}
