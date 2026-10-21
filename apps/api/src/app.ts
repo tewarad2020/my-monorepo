@@ -16,6 +16,7 @@ app.get('/express-api', (_req, res) => {
     vat,
     totalPrice: basePrice + vat,
     inStock: true,
+    
   });
 });
 
